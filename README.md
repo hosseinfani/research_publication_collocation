@@ -1,8 +1,6 @@
 # research_publication_collocation
 Sequence of words or terms that co-occur more often in research papers
 
-[[:File:HowToGetPaperRejected.pdf|How to get paper rejected!]]
-
 ## Helpful links
 http://www.uefap.com/writing/genre/genre.htm
 
