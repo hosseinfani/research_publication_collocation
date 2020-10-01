@@ -1,4 +1,4 @@
-# research_publication_collocation
+# Research Publication Collocation
 Sequence of words or terms that co-occur more often in research papers
 
 ## Helpful links
