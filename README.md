@@ -164,3 +164,5 @@ a plausible description that might be '''decoupled from''' the recommendation al
 Our proposed approach '''hinges''' on the notion of set-based preferences.
 
 they ignore the phenomenon of user interest drift across geographical regions which '''discounts''' the recommendation quality of existing methods,
+
+quickly tail off (away), fade away 
