@@ -4,6 +4,8 @@ Sequence of words or terms that co-occur more often in research papers
 ## Helpful links
 http://www.uefap.com/writing/genre/genre.htm
 
+[Online English Collocation Dictionary](https://inspirassion.com/en/)
+
 ## Linking word and phrases
 
 ### Addition 
