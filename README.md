@@ -168,3 +168,9 @@ Our proposed approach '''hinges''' on the notion of set-based preferences.
 they ignore the phenomenon of user interest drift across geographical regions which '''discounts''' the recommendation quality of existing methods,
 
 quickly tail off (away), fade away 
+
+spur us into action
+
+it can backfire
+
+it takes for it to eventuate.
