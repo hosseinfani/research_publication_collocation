@@ -182,3 +182,13 @@ It also underscores the strong performance
 in order to overcome performance drain caused by data scarcity 
 
 These were later outstripped by large pretrained ...
+
+Also included is a plan of when to
+
+The upside/downside of
+
+the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely
+
+sequential nature precludes parallelization within training examples
+
+Transformer, a model architecture eschewing (deliberately avoid using; abstain from.) recurrence and instead relying entirely on an attention mechanism
