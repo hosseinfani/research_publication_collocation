@@ -194,3 +194,5 @@ sequential nature precludes parallelization within training examples
 Transformer, a model architecture eschewing (deliberately avoid using; abstain from.) recurrence and instead relying entirely on an attention mechanism
 
 That is apt because a social structure is made up
+
+The end-to-end approach has been buoyed by recent results in computer vision
