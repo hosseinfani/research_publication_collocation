@@ -198,3 +198,7 @@ That is apt because a social structure is made up
 The end-to-end approach has been buoyed by recent results in computer vision
 
 ...-based model with only 10M parameters enjoys a very comfortable margin over that
+
+... there leave blank for directly do ...
+
+wide array of tasks
