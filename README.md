@@ -202,3 +202,5 @@ The end-to-end approach has been buoyed by recent results in computer vision
 ... there leave blank for directly do ...
 
 wide array of tasks
+
+the claims are untenable ((especially of a position or view) not able to be maintained or defended against attack or objection)
