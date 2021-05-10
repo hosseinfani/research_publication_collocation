@@ -22,7 +22,7 @@ Due to, Because, Since<span style="color:Red">*</span>, For<span style="color:Re
 
 ### Clarification
 
-That is, In other word, Given, Once , By then, either case, either else, **by and large**
+That is, In other word, Given, Once , By then, either case, either else, **by and large (on the whole; everything considered)**
 
 ### Contrast
 
