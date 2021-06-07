@@ -26,7 +26,7 @@ That is, In other word, Given, Once , By then, either case, either else, **by an
 
 ### Contrast
 
-On the contrary, Otherwise, Else, While<span style="color:Red">*</span>, Unlike, In contrast, Whereas<span style="color:Red">*</span>
+On the contrary, Otherwise, Else, While<span style="color:Red">*</span>, Unlike, In contrast, Whereas<span style="color:Red">*</span>, ... are the weakest in comparison., 
 
 ### Illustration
 
@@ -207,4 +207,4 @@ the claims are untenable ((especially of a position or view) not able to be main
 
 F depends as-of-yet unspecified parameters
 
-
+... employs ... when there is a pereceived need.
