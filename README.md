@@ -32,6 +32,8 @@ On the contrary, Otherwise, Else, While<span style="color:Red">*</span>, Unlike,
 
 For instance, For example, As a case in point, Along with, As well as, As well, With this regard, With regard to, Regarding, Regardless of, En route<span style="color:Red">*</span>
 
+thereupon (immediately or shortly after that)
+
 ### Intensification
 
 Indeed, In fact, As a matter of fact
