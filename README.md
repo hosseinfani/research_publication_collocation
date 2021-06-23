@@ -210,3 +210,15 @@ the claims are untenable ((especially of a position or view) not able to be main
 F depends as-of-yet unspecified parameters
 
 ... employs ... when there is a pereceived need.
+
+sth become canonical (that is widely become accepted by the community)
+
+there have been recent work that peers deeply into ...
+
+Nevertheless, the jury is still out on most of these questions.
+
+the urban crisis conflates a number of different economic and social issues
+
+intuitively leads to the lottery forces not being diminished, but instead more pronounced.
+
+Once a benchmark builds up a following and becomes well-established, ...
